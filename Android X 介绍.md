@@ -11,5 +11,5 @@ Android Support Library 等，
      Android 团队意识到support-v4、appcompat-v7这种命名方式不合适，推出AndroidX，AndroidX 本质是对Android Support Library 进行的一次升级。
 
 2.使用AndroidX 好处
-     AndroidX 重新设计了包结构，旨在鼓励库的小型化，支持库和架构组件包的名字也都简化了；而且也是减轻 Android 生态系统碎片化的有效方式。
+     AndroidX 重新设计了包结构，简化结构，简化了名字，减少了碎片化。
 
